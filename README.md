@@ -1,5 +1,5 @@
 # permutation-python
-Different approaches in solving permutations using python.
+Different approaches in solving permutation using python.
 1. Raw maths
 2. Factorial
 3. Stirling's Approximation
