@@ -1,5 +1,8 @@
-# permutation-python
-Different approaches in solving permutation using python.
+# math-python
+
+# Permutation and Combination
+
+Different approaches in solving permutation and combination using python. *(Check folder permutation_combination)*
 1. Raw maths
 2. Factorial
 3. Stirling's Approximation
