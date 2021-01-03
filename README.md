@@ -15,3 +15,10 @@ The explanation of these implementations can be found at https://medium.com/@chu
 
 1. Gaussian (Normal) Distribution
 2. Binomial Distribution
+
+# Number Theory
+Various ways to obtain prime numbers.
+1. Using Loop
+2. Sieve of Eratosthenes
+3. Sieve of Sundaram
+4. Sieve of Atkin
