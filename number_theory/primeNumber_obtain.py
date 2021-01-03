@@ -77,3 +77,12 @@ def sieveOfAtkin(limit):
   for p in range(5,limit):
     if sieve[p] : P.append(p)
   return P
+  
+#%%
+# Results
+
+print(primeLoopMethod_range(200,300))
+print(primeLoopMethod(103))
+print(sieveOfEratosthenes(103))
+print(sieveOfSundaram(103))
+print(sieveOfAtkin(103))
