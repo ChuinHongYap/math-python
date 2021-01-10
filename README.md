@@ -1,5 +1,7 @@
 # math-python
 
+This is a repository of useful math related algorithm.
+
 # Permutation and Combination
 
 Different approaches in solving permutation and combination using python. *(Check folder permutation_combination)*
