@@ -11,7 +11,7 @@ Different approaches in solving permutation and combination using python. *(Chec
 4. List method
 5. List method (more efficient approach)
 
-The explanation of these implementations can be found at https://medium.com/@chuinhongyap/permutation-using-python-882ae85ce3a7.
+The explanation of these implementations can be found at https://chuinhongyap.medium.com/permutation-using-python-882ae85ce3a7.
 
 # Probability Distribution
 
