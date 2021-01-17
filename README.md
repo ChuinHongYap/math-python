@@ -24,3 +24,5 @@ Various ways to obtain prime numbers.
 2. Sieve of Eratosthenes
 3. Sieve of Sundaram
 4. Sieve of Atkin
+
+The explanation of these implementations can be found at https://chuinhongyap.medium.com/how-to-obtain-prime-numbers-using-python-a3fbd0f5eb73.
